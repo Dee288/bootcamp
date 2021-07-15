@@ -27,3 +27,7 @@ python useargument.py
 
 
 4. Modify helloworld.py to compose a program that takes three names and writes a proper sentence with the names in the reverse of the order they are given, so that, for example, python helloworld.py Alice Bob Carol writes the string 'Hi Carol, Bob, and Alice'
+please enter the first name Alice
+please enter the second name Bob
+please enter the third name Caro
+Hi Caro Bob and Alice
