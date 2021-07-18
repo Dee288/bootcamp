@@ -1,11 +1,11 @@
-1. Can I use matching double quotes for string literals instead of single quotes? No
+1. Can I use matching double quotes for string literals instead of single quotes? Yes
 
 
 2. Can I compare strings using comparison operators such as = and < or built-in functions such as max() and min()? Yes, Python uses lexicographic order to compare two strings like words in a bookindex or dictionary. Example. 'hello' and 'hello' are equal' 'hello' and 'goodbye' are unequal and 'goodbye' is less than 'hello'
 
 
 3. What does the expression 1/0 evaluate to in Python?
-1/0
+Error
 
 
 
